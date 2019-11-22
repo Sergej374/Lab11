@@ -1,0 +1,9 @@
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\bin\Debug\L11.exe.config
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\bin\Debug\L11.exe
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\bin\Debug\L11.pdb
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.csprojResolveAssemblyReference.cache
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.Form1.resources
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.Properties.Resources.resources
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.csproj.GenerateResource.Cache
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.exe
+C:\Users\user04\Desktop\374\Безуглый\L11\L11\obj\Debug\L11.pdb
